@@ -1,0 +1,11 @@
+﻿body
+{
+background-color: black;
+color:	#FFFF00;
+font-family: 'Permanent Marker', cursive, 'Roboto Mono', monospace; 
+}
+
+p{
+font-family: 'Roboto Mono', monospace; 
+color:	lime;
+}
